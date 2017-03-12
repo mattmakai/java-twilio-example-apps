@@ -1,0 +1,25 @@
+<project>
+    <!-- model version - always 4.0.0 for Maven 2.x POMs -->
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- modify these project values to uniquely identify your project -->
+    <groupId>com.mycompany.app</groupId>
+    <artifactId>javaCalls</artifactId>
+    <version>1.0</version>
+
+    <!-- library dependencies -->
+    <dependencies>
+        <dependency>
+            <groupId>com.sparkjava</groupId>
+            <artifactId>spark-core</artifactId>
+            <version>2.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.twilio.sdk</groupId>
+            <artifactId>twilio</artifactId>
+            <version>(7.0,7.9)</version>
+        </dependency>
+    </dependencies>
+
+</project>
