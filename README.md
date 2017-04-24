@@ -1,2 +1,3 @@
-# java-twilio-example-apps
-Example web apps built with a range of Java frameworks that use Twilio.
+# Twilio example apps in Java
+Example applications built with and without Java web frameworks
+and varying IDEs such as Eclipse and IntelliJ.
